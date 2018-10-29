@@ -1,2 +1,1 @@
-# project2
-project 2 University of Richmond bootcamp
+This is an application that I worked on with three other developers. It's aim is to allow the user to either sign up to be a professional mentor to someone, or for the user to search for mentors within their area that work in their current or desired field.
